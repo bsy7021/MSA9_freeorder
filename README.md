@@ -42,7 +42,7 @@
   Java, Spring Boot, Spring MVC, Spring Security, RESTful API
 
 - **Frontend**:  
-  React, HTML, CSS, JavaScript, Thymleaf
+  HTML, CSS, JavaScript, Thymleaf
 
 - **Database**:  
   MySQL  
